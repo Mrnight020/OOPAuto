@@ -1,0 +1,11 @@
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\UkolOOPAuto\UkolOOPAuto\bin\Debug\UkolOOPAuto.exe.config
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\UkolOOPAuto\UkolOOPAuto\bin\Debug\UkolOOPAuto.exe
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\UkolOOPAuto\UkolOOPAuto\bin\Debug\UkolOOPAuto.pdb
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\UkolOOPAuto\UkolOOPAuto\obj\Debug\UkolOOPAuto.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\UkolOOPAuto\UkolOOPAuto\obj\Debug\UkolOOPAuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\UkolOOPAuto\UkolOOPAuto\obj\Debug\UkolOOPAuto.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\UkolOOPAuto\UkolOOPAuto\obj\Debug\UkolOOPAuto.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\UkolOOPAuto\UkolOOPAuto\obj\Debug\UkolOOPAuto.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\UkolOOPAuto\UkolOOPAuto\obj\Debug\UkolOOPAuto.exe
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\UkolOOPAuto\UkolOOPAuto\obj\Debug\UkolOOPAuto.pdb
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\UkolOOPAuto\UkolOOPAuto\obj\Debug\UkolOOPAuto.Form1.resources
